@@ -124,8 +124,8 @@ const experiences = [
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Node.js is an open-source, cross-platform JavaScript runtime that allows developers to execute JavaScript code outside of a web browser.",
-      "Node.js's event-driven, non-blocking I/O model, which enables high-performance and scalable applications.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
@@ -137,8 +137,8 @@ const experiences = [
     points: [
       "Developing and maintaining web applications using Node.js and other related technologies.",
       "A Node.js developer is a skilled professional who specializes in utilizing the Node.js runtime environment to build efficient and scalable server-side applications.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Node.js is an open-source, cross-platform JavaScript runtime that allows developers to execute JavaScript code outside of a web browser.",
+      "Node.js's event-driven, non-blocking I/O model, which enables high-performance and scalable applications.",
     ],
   },
   {
